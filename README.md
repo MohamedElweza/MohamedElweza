@@ -1,13 +1,13 @@
-<h1 align="center">Hey 👋 I'm Mohamed Ahmed</h1>
+<h1 align="center">Hey 👋 I'm Mohamed Elweza</h1>
 
 ###
 
-<h3 align="center">Student at Faculty of Engineering.</h3>
+<h3 align="center">I am a junior Flutter developer and a student in the Faculty of Engineering.</h3>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"  />
+  <img height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz-6FOkL8GSTObPyVlnNTvfG4-VcKmHolPklUcHfqFMACuxmfYqX1mqTIeUZQdS3EYscsWxKdx4GlnDM5te5AH_r1tUPiOuPNhS8ZUvoMRP3XObfLer2-mBh0xvKz5jSyUlxgSeLuwyjw/s1600/Graphic+Designer+L1nux3rr0r.png"  />
 </div>
 
 ###
