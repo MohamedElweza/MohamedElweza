@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">🚀 Cloud DevOps Engineer | Flutter Developer | Engineering Student</h3>
+<h3 align="center">🚀 Cloud DevOps Engineer </h3>
 
 ---
 
