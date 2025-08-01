@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Mohamed Elweza</h1>
 
-<h3 align="center">🚀 Cloud & DevOps Engineer </h3>
+<h3 align="center">🚀 DevOps Engineer </h3>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" height="300"/>
