@@ -1,43 +1,41 @@
-<h1 align="center">👋 Hey, I'm Mohamed Elweza</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Mohamed Ahmed</span></h1>
 
-<h3 align="center">🚀 DevOps Engineer </h3>
+<h3 align="center">🚀 Cloud & DevOps Engineer</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" height="300"/>
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" height="350" width="560"/>
 </div>
 
 ---
 
 ## 🌟 About Me
 
-- 🔧 Passionate about **Cloud Computing, DevOps, and Automation**
-- 📱 Skilled in **Flutter** with a solid foundation in **Software Engineering**
-- ☁️ Exploring tools like **Kubernetes**, **Docker**, **Ansible**, **Terraform**, and **CI/CD Pipelines**
-- 🧠 Constant learner with a love for building scalable and efficient systems
-- 🎯 Goal: To grow as a **Cloud DevOps Engineer** and contribute to impactful projects
+💡 **Passionate** about building **scalable systems**, automating workflows, and crafting solutions that make an impact.  
+⚙️ Experienced in **Cloud Computing, DevOps, CI/CD, and Automation**.  
+📱 Skilled in **Flutter** with strong foundations in **Software Engineering**.  
+☁️ Love exploring tools like **Kubernetes, Docker, Terraform, Ansible, Jenkins, Prometheus, and Grafana**.  
+📚 **Constant learner**—because tech never stops evolving.  
+🎯 **Goal:** Grow as a Cloud DevOps Engineer & contribute to impactful, open-source, and enterprise projects.  
 
 ---
 
+## 🔗 Let's Connect
 
-## 📫 Let's Connect!
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mohamed-elweza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohamedelweza471@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email logo"  />
+  <a href="mailto:mohamed.farouk1702@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100010188156758" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
 </div>
 
-###
-
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
 ### 🚀 DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -48,13 +46,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
 ### 📱 Mobile & Software Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -66,22 +62,24 @@
 ### 🔧 Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-<div align="left">
+## 📊 GitHub Stats & Activity
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElweza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="Top Languages" /> 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElweza&theme=dark&hide_border=false&show_icons=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElweza&theme=dark&hide_border=false&layout=compact" height="170" alt="Top Languages" />
 </div>
 
 ---
 
+## 💬 Quote to Live By
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+---
 
-
-🚀 Always open to collaboration and learning new technologies! Feel free to reach out! 😊
+🌍 *Always open to collaboration, learning, and exploring new technologies.*  
+📩 **Let’s build something amazing together!**
