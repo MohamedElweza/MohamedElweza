@@ -6,11 +6,11 @@
 
 <br />
 
-<a href="https://mohamedfarouk.site"><img src="https://img.shields.io/badge/Portfolio-2ff5c0?style=for-the-badge&logo=googlechrome&logoColor=05070b" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mohamed-elweza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-<a href="mailto:mohamed.farouk1702@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.upwork.com/freelancers/~01a9ebd79d9538eae8"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=05070b" alt="Upwork" /></a>
-<a href="https://mohamedfarouk.site/Mohamed_Ahmed_Farouk_DevOps_Engineer.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-b18cff?style=for-the-badge&logo=files&logoColor=05070b" alt="Résumé" /></a>
+<a href="https://mohamedfarouk.site"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-elweza/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:mohamed.farouk1702@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email" /></a>&nbsp;
+<a href="https://www.upwork.com/freelancers/~01a9ebd79d9538eae8"><img src="assets/btn-upwork.svg" height="46" alt="Upwork" /></a>&nbsp;
+<a href="https://mohamedfarouk.site/Mohamed_Ahmed_Farouk_DevOps_Engineer.pdf"><img src="assets/btn-resume.svg" height="46" alt="Résumé" /></a>
 
 </div>
 
